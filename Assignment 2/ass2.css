@@ -1,0 +1,35 @@
+body{
+background-color: #a5d6a7;
+}
+body .header{
+color:  #5d4037;
+}
+body .imagepart{
+height: 250;
+width: 400;
+border-image: 2px;
+}
+body .bodypart{
+font-size: 20px;
+}
+table {
+  border-collapse: co
+  width: 100%;
+}
+
+th, td {llapse;
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #333;
+} h4{
+  font-style: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  color: black;
+
+ }
+ h3{
+  font-style: Times new Roman;
+  font-size: 35px;
+  color: black;
+  text-decoration: underline;
+ }
